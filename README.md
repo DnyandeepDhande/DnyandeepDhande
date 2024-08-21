@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Javascript, Android**
 
-- 📫 How to reach me **dnyandeeprd@gmail.com**
+- 📫 How to reach me **dhande2431@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1HIX9T1ezJWqEpJAxyo1uJVfW1u2OAxEb?usp=sharing](https://drive.google.com/drive/folders/1HIX9T1ezJWqEpJAxyo1uJVfW1u2OAxEb?usp=sharing)
 
