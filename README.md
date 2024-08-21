@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django,Flask,TurboGears**
 
-- 💬 Ask me about **Python, Javascript, Android**
+- 💬 Ask me about **Python, Data Science, Web-Development**
 
 - 📫 How to reach me **dhande2431@gmail.com**
 
