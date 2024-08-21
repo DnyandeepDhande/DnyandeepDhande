@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
+![MasterHead](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)
 <h1 align="center">Hi 👋, I'm Dnyandeep Dhande</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
