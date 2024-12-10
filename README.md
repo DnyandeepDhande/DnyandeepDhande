@@ -1,8 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dnyandeep Dhande and I'm a Python Programmer | Seeking Growth Opportunities | Data Science B.Tech Student.</h2>
-
-###
-
-<h3 align="left">You can reach me at : dhande2431@gmail.com</h3>
+<h2 align="left">Hi 👋! My name is Dnyandeep Dhande and I'm a Python Programmer | Seeking Growth Opportunities | Data Science B.Tech Student, You can reach me at : dhande2431@gmail.com</h2>
 
 ###
 
@@ -13,32 +9,20 @@
 
 ###
 
+<img align="right" height="150" src="https://camo.githubusercontent.com/b176bdd9e89b7a6619726aa9629bcbe2db2795cd991ff67297bd7b452683a57e/68747470733a2f2f7777772e66726565636f646563616d702e6f72672f6e6577732f636f6e74656e742f696d616765732f323032322f31312f686972652d66756c6c2d737461636b2d646576656c6f70657273313534363530373437343331372d312e676966"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
 ###
@@ -54,11 +38,8 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/b176bdd9e89b7a6619726aa9629bcbe2db2795cd991ff67297bd7b452683a57e/68747470733a2f2f7777772e66726565636f646563616d702e6f72672f6e6577732f636f6e74656e742f696d616765732f323032322f31312f686972652d66756c6c2d737461636b2d646576656c6f70657273313534363530373437343331372d312e676966"  />
+<br clear="both">
 
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DnyandeepDhande.DnyandeepDhande&left_color=aliceblue&right_color=azure"  />
-</div>
+<img src="https://raw.githubusercontent.com/DnyandeepDhande/DnyandeepDhande/output/snake.svg" alt="Snake animation" />
 
 ###
